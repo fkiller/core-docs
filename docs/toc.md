@@ -17,6 +17,7 @@
 ### [🔧 Deploying NuGet packages](scenarios/deployment/nuget-packages.md)
 ### [🔧 Deploying ASP.NET web applications](scenarios/deployment/aspnet-applications.md)
 # [.NET Core concepts](core-concepts/index.md)
+## [.NET Core](core-concepts/dotnet-core.md)
 ## [.NET Core Packages and Meta-packages](core-concepts/packages-metapackages.md)
 ## [.NET Core SDK](core-concepts/core-sdk/index.md)
 ### [.NET Core CLI tools](core-concepts/core-sdk/cli/index.md)
