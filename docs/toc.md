@@ -53,7 +53,7 @@
 ## [C# Tutorials](tutorials/index.md)
 # [Learn .NET](concepts/index.md)
 ## [The .NET Primer](concepts/primer.md)
-## [.NET Standard](concepts/net-standard-library.md)
+## [.NET Standard](concepts/dotnet-standard-library.md)
 ## [Overview of .NET implementations](concepts/editions-overview.md) 
 ## [🔧 Introduction to metadata in the .NET Platform](essentials/metadata.md)
 ## [🔧 Automatic memory management and garbage collection](essentials/gc.md)
